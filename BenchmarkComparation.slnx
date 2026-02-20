@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="Win32" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Elementos de la solución/" />
+  <Project Path="BenchmarkComparation/BenchmarkComparation.vcxproj" Id="8d4b019b-0599-4f83-bade-c3e8a319cf57" />
+  <Project Path="Benchmark_ASM/Benchmark_ASM.vcxproj" Id="8ec99476-eb01-4055-9d8f-85f88f427833" />
+  <Project Path="Benchmark_Python/Benchmark_Python.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="6ea1a593-e2e4-4f3f-9635-839f719892fb">
+    <Platform Project="AnyCPU" />
+    <Build Project="false" />
+  </Project>
+</Solution>
